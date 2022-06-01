@@ -19,6 +19,8 @@ Jupyter notebook, Visual Studio Code
 Machine learning algorithms - Linear Regression,Random forest regressor, Lasso regression, k-nearest neighbors algorithm
 Numpy,seaborn,pickle,pandas and sklearn libraries
 
+Created a batsman runs predictor website by employing various machine learning algorithms and data mining.
+
 ![cricket1](https://user-images.githubusercontent.com/90515944/171371150-eb64ebd9-3e76-46d6-b324-3b696772be4f.jpg)
 
 
